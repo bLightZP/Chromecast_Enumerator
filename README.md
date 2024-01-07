@@ -1,4 +1,4 @@
-# Chormecast_Enumurator
+# Chromecast_Enumurator
 List Chromecast devices using PasLibVLC
 
 This code is not yet functional.
