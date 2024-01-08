@@ -1,9 +1,3 @@
-//
-// Released under the MPL 2.0 license.
-//
-// Code by Yaron Gur with contributions and support from Robert Jedrzejczyk
-//
-
 unit mainunit;
 
 interface
