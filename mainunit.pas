@@ -72,7 +72,7 @@ begin
       libvlc_RendererDiscovererItemDeleted :
       Begin
         For I := 0 to OptionsForm.SetOPVLCCastDeviceList.Items.Count-1 do
-          If OptionsForm.SetOPVLCCastDeviceList.Items[I] = UTF8StringToWideString(PAnsiChar(renderer_discoverer_item_added.item^)) then
+          If OptionsForm.SetOPVLCCastDeviceList.Items[I] = UTF8StringToWideString(PAnsiChar(renderer_discoverer_item_deleted.item^)) then
         Begin
           OptionsForm.SetOPVLCCastDeviceList.Items.Delete(I);
           Break;
