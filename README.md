@@ -1,4 +1,4 @@
-# Chromecast_Enumurator
+# Chromecast_Enumerator
 This code demonstrates how to use PasLibVLC in combination with libVLC to detect and list any Chromecast compatible devices on the network.
 It can also demonstrate how to view libVLC debug messages.
 
